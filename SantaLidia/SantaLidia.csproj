@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\Sistema\SantaLidia.cs" Link="SantaLidia.cs" />
+    <Compile Include="C:\Sistema\SantaLidia.cs" Link="SantaLidia.cs">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Compile>
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,7 @@
+C:\Sistema\SantaLidia\SantaLidia\obj\Debug\netcoreapp3.1\SantaLidia.csproj.AssemblyReference.cache
+C:\Sistema\SantaLidia\SantaLidia\obj\Debug\netcoreapp3.1\SantaLidia.Menu.resources
+C:\Sistema\SantaLidia\SantaLidia\obj\Debug\netcoreapp3.1\SantaLidia.csproj.GenerateResource.cache
+C:\Sistema\SantaLidia\SantaLidia\obj\Debug\netcoreapp3.1\SantaLidia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\SantaLidia\SantaLidia\obj\Debug\netcoreapp3.1\SantaLidia.AssemblyInfoInputs.cache
+C:\Sistema\SantaLidia\SantaLidia\obj\Debug\netcoreapp3.1\SantaLidia.AssemblyInfo.cs
+C:\Sistema\SantaLidia\SantaLidia\obj\Debug\netcoreapp3.1\SantaLidia.csproj.CoreCompileInputs.cache
