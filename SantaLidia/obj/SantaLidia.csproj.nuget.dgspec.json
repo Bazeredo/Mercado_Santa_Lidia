@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sistema\\SantaLidia\\SantaLidia\\SantaLidia.csproj": {}
+    "C:\\Sistema\\Mercado_Santa_Lidia\\SantaLidia\\SantaLidia.csproj": {}
   },
   "projects": {
-    "C:\\Sistema\\SantaLidia\\SantaLidia\\SantaLidia.csproj": {
+    "C:\\Sistema\\Mercado_Santa_Lidia\\SantaLidia\\SantaLidia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistema\\SantaLidia\\SantaLidia\\SantaLidia.csproj",
+        "projectUniqueName": "C:\\Sistema\\Mercado_Santa_Lidia\\SantaLidia\\SantaLidia.csproj",
         "projectName": "SantaLidia",
-        "projectPath": "C:\\Sistema\\SantaLidia\\SantaLidia\\SantaLidia.csproj",
+        "projectPath": "C:\\Sistema\\Mercado_Santa_Lidia\\SantaLidia\\SantaLidia.csproj",
         "packagesPath": "C:\\Users\\bruno.azeredo_beyoun\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistema\\SantaLidia\\SantaLidia\\obj\\",
+        "outputPath": "C:\\Sistema\\Mercado_Santa_Lidia\\SantaLidia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno.azeredo_beyoun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
